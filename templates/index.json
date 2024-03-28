@@ -1,0 +1,36 @@
+{
+    "sections": {
+        "header": {
+            "type": "header"
+        },
+        "predictive_search": {
+            "type": "predictive_search"
+        },
+        "hero": {
+            "type": "hero"
+        },
+        "category": {
+            "type": "category"
+        },
+        "links": {
+            "type": "links"
+        },
+        "content": {
+            "type": "content"
+        },
+        "footer": {
+            "type": "footer"
+        }
+    },
+    "layout": "theme",
+    "wrapper": "main.main-wrapper",
+    "order": [
+        "header",
+        "predictive_search",
+        "hero",
+        "category",
+        "links",
+        "content",
+        "footer"
+    ]
+}
